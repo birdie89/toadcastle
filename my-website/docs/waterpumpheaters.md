@@ -1,4 +1,8 @@
-### **Turn on the water pump & heater**
+---
+sidebar_label: 'Water pump & hot water heater'
+sidebar_position: 2
+---
+# Water pump & hot water heater
 
 This is the most challenging \- and dare I say exciting \- part of the job, get ready\! 
 
