@@ -1,47 +1,5 @@
 # Toad Castle Guide
 
-[Contacts](#contacts)
-
-[Internet](#internet)
-
-[Arrival Procedure (Winter)](#arrival-procedure-winter))
-
-[Unlock the doors](#unlock-the-doors)
-
-[Turn on the water pump & heater](#turn-on-the-water-pump-and-heater)
-
-[Turn on heat pumps & light a fire](#turn-on-heat-pumps-and-light-a-fire)
-
-[Departure Checklist (Winter)](#departure-checklist-winter))
-
-[Turn off/down heat & clean woodstove](#turn-offdown-heat-and-clean-woodstove)
-
-[Turn off water breakers & lights](#turn-off-water-breakers-and-lights)
-
-[Empty garbage & lock up](#empty-garbage-and-lock-up)
-
-[Helpful extra jobs \- not required, but it will help us\!](#helpful-extra-jobs---not-required-but-it-will-help-us)
-
-[Parking](#parking)
-
-[Woodstove](#woodstove)
-
-[Wood management](#wood-management)
-
-[Dampers](#dampers)
-
-[Lighting a fire](#lighting-a-fire)
-
-[Ashes](#ashes)
-
-[Chimney Cleaning](#chimney-cleaning)
-
-[Heaters/thermostats](#heatersthermostats)
-
-[Garbage, compost, recycling](#garbage-compost-recycling)
-
-[Power outage](#power-outage)
-
 # Contacts
 
 **Snow plow** (Dannick Brassard): 888 888 8888  

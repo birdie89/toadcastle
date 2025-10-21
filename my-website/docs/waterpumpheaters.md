@@ -9,6 +9,7 @@ This is the most challenging \- and dare I say exciting \- part of the job, get 
 1. Using the trapdoor in the workshop, go downstairs into the basement. The basement lights are immediately on your right on the ceiling/floor beside the trap door opening.   
 2. Go to the electrical panel, located just after the first doorway in the basement. Immediately on your left you’ll see the electrical panel.  
 3. Turn on breakers **29** and **31** if they’re off (Hint: everything else on that side/column is in the ON position, so the pump switches are ON when they’re in the same position as the other switches in their side/column.)  
+![control panel](/img/image1.png)
      
 4. Continue towards the far end of the basement, past the gym, and through the doorway into the dirt floor area. Light is above your right shoulder on the doorway, turn it on.   
 5. Walk to the far right corner where you’ll find the pump and plumbing. You’ll see a grey box \- the pump pressure switch \- on the water pipe in front of the bright blue pressure tank. The pressure switch looks like this:   
