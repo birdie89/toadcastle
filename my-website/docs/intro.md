@@ -19,6 +19,8 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 ## Generate a new site
 
+I am making changes to this page - I can see it real time - weeee
+
 Generate a new Docusaurus site using the **classic template**.
 
 The classic template will automatically be added to your project after you run the command:
